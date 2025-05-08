@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.venv/
+venv/
+
+# CIFAR-10 is downloaded on first run; see CIFAR10_DATA_DIR in the README.
+data/
+cifar-10-batches-py/
+cifar-10-python.tar.gz
+
+# Checkpoints and figures written by the notebooks.
+*.pt
+*.pth
+umap_*.png
+loss_*.png
+*.npy

@@ -1,0 +1,7 @@
+torch>=1.13
+torchvision>=0.14
+pytorch-metric-learning>=2.0
+umap-learn>=0.5
+numpy>=1.21
+matplotlib>=3.5
+tqdm>=4.60
